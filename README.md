@@ -42,6 +42,6 @@ https://github.com/user-attachments/assets/df8b230c-c881-4a1e-8ced-e0f13c54046a
 
 
 ## Acknowledgements
+https://www.youtube.com/watch?v=1tNER04Ytyc&list=LL&index=8&t=874s
 
-- Uses the Web Speech API for STT and TTS functionalities.
-- Integrates with OpenAI's ChatGPT for generating responses.
+https://www.youtube.com/watch?v=kAWNSolkkqg
