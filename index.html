@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speech to Text, ChatGPT, and Text to Speech</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Speech to Text, ChatGPT, and Text to Speech</h1>
+        <label for="languageSelect">Select Language:</label>
+        <select id="languageSelect">
+            <option value="en-US">English</option>
+            <option value="ar-SA">Arabic</option>
+        </select>
+        <button id="start-btn">Start Recording</button>
+        <div id="chat"></div>
+        <textarea id="inputText" placeholder="Type your message here..."></textarea>
+        <button id="submitButton">Send</button>
+        <button id="speak-btn">Listen</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
