@@ -12,21 +12,21 @@ https://github.com/user-attachments/assets/df8b230c-c881-4a1e-8ced-e0f13c54046a
 
 ## Code Overview
 
-### HTML
-- **Structure**: Defines the layout with a language selector, text area for user input, and buttons for recording, sending messages, and speaking text.
+### [`index.html`](https://github.com/GDHadeel/STT-ChatGPT-and-TTS/blob/main/index.html)
+- **Structure**: Creates the interface with a language selector, a text input area, and buttons for recording speech, sending messages to ChatGPT, and speaking text.
 
-### CSS
-- **Styles**: Provides a clean, user-friendly interface with responsive design and modern styling.
+### [`style.css`](https://github.com/GDHadeel/STT-ChatGPT-and-TTS/blob/main/style.css)
+- **Styles**: Styles the interface for a responsive, user-friendly design.
 
-### JavaScript
-- **Speech-to-Text**: Uses the Web Speech API to transcribe spoken words to text.
-- **ChatGPT Integration**: Sends the transcribed text to the OpenAI API and displays the response.
-- **Text-to-Speech**: Uses the Web Speech API to read out the response from ChatGPT.
+### [`script.js`](https://github.com/GDHadeel/STT-ChatGPT-and-TTS/blob/main/script.js)
+- **Speech-to-Text**: Converts speech to text using the Web Speech API.
+- **ChatGPT Integration**: Sends text to OpenAI's API and displays the response.
+- **Text-to-Speech**: Reads the ChatGPT response out loud using the Web Speech API.
 
 
 ## How to Use
 
-1. **Open `index.html`(https://github.com/GDHadeel/STT-ChatGPT-and-TTS/blob/main/index.html)** in a web browser.
+1. **Open [`index.html`](https://github.com/GDHadeel/STT-ChatGPT-and-TTS/blob/main/index.html)** in a web browser.
 
 2. **Select Language**: Choose between English and Arabic.
 
