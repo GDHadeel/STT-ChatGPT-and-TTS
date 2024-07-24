@@ -13,10 +13,10 @@ https://github.com/user-attachments/assets/df8b230c-c881-4a1e-8ced-e0f13c54046a
 ## Code Overview
 
 ### [`index.html`](https://github.com/GDHadeel/STT-ChatGPT-and-TTS/blob/main/index.html)
-- **Structure**: Creates the interface with a language selector, a text input area, and buttons for recording speech, sending messages to ChatGPT, and speaking text.
+- Creates the interface with a language selector, a text input area, and buttons for recording speech, sending messages to ChatGPT, and speaking text.
 
 ### [`style.css`](https://github.com/GDHadeel/STT-ChatGPT-and-TTS/blob/main/style.css)
-- **Styles**: Styles the interface for a responsive, user-friendly design.
+- Styles the interface for a responsive, user-friendly design.
 
 ### [`script.js`](https://github.com/GDHadeel/STT-ChatGPT-and-TTS/blob/main/script.js)
 - **Speech-to-Text**: Converts speech to text using the Web Speech API.
