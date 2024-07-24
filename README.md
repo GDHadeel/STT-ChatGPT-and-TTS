@@ -6,12 +6,6 @@
 This project integrates speech-to-text (STT), ChatGPT, and text-to-speech (TTS) functionalities into a single web application. It allows users to convert speech to text, interact with ChatGPT, and convert the response back to speech.
 
 
-## Features
-- **Speech-to-Text**: Convert spoken words into text using the Web Speech API.
-- **ChatGPT Integration**: Send text input to OpenAI's ChatGPT and display the response.
-- **Text-to-Speech**: Convert the response text from ChatGPT back to speech.
-
-
 ## Demo
 https://github.com/user-attachments/assets/df8b230c-c881-4a1e-8ced-e0f13c54046a
 
