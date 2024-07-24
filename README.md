@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/df8b230c-c881-4a1e-8ced-e0f13c54046a
 
 ## How to Use
 
-1. **Open `index.html`** in a web browser.
+1. **Open `index.html`()** in a web browser.
 
 2. **Select Language**: Choose between English and Arabic.
 
