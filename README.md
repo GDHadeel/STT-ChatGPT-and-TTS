@@ -1,6 +1,6 @@
 # STT-ChatGPT-and-TTS
 
-# Task 7: Integrate speech-to-text (stt), chatGPT, and text-to-speech into one code
+# Task 6: Integrate speech-to-text (stt), chatGPT, and text-to-speech into one code
 
 ## Description
 This project integrates speech-to-text (STT), ChatGPT, and text-to-speech (TTS) functionalities into a single web application. It allows users to convert speech to text, interact with ChatGPT, and convert the response back to speech.
